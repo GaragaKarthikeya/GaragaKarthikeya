@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hey%2C+I'm+Karthikeya;ECE+Student+at+IIIT+Bangalore;Curious+about+code+%2B+hardware)](https://git.io/typing-svg)
 
----
-
+ 
 # About Me
 I'm 18, studying **ECE at IIIT Bangalore**.  
+
 Second year. Not an expert. Still learning every day.  
 
 Mostly curious about how code and hardware connect. I like systems that actually *do* something — even if I barely know how they work yet.
