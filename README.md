@@ -30,7 +30,7 @@ Mostly curious about how code and hardware connect. I like systems that actually
 # Contact
 If you're learning too and want to share what you’re building (or breaking):  
 
-**garagakarthikeya@gmail.com**
+**garagakarthikeya2007@gmail.com**
 
 ---
 
