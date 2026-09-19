@@ -1,37 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hey%2C+I'm+Karthikeya;ECE+Student+at+IIIT+Bangalore;Curious+about+code+%2B+hardware)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hey%2C+I'm+Karthikeya;ECE+Student+at+IIIT+Bangalore;Building+at+the+hardware%2Fsoftware+edge)](https://git.io/typing-svg)
 
- 
 # About Me
-I'm 18, studying **ECE at IIIT Bangalore**.  
+I'm a third-year ECE student at **IIIT Bangalore**, working on FPGA architecture and hardware accelerators for machine learning.
 
-Second year. Not an expert. Still learning every day.  
-
-Mostly curious about how code and hardware connect. I like systems that actually *do* something — even if I barely know how they work yet.
+I like problems where nobody's mapped the gaps yet. Most of what I build starts from reading a paper, noticing something that doesn't sit right, and chasing it until it turns into an idea worth testing.
 
 ---
 
 # What I'm Working On
-- **Electronics lab**: digital logic, circuits, microcontrollers  
-- **Programming**: C++ for microcontroller work, Python for scripts, exploring web development  
-- **Experiments**: trying out tools like Whisper and pushing my laptop to its limits  
-- **Other side**: guitar practice (because sometimes it’s better when things don’t crash)  
+- **INSITU**: a fixed-function attention accelerator on FPGA that scores and accumulates directly over a compressed KV cache, no reconstruction needed
+- **INSTINCT**: a reinforcement learning policy for zero-shot eFPGA floorplanning, replacing per-design search with a single rollout
+- **8-bit Breadboard CPU**: a working CPU built from discrete TTL logic and coordinated Arduinos, no pre-made cores
+- Currently reading into processing-in-memory and memory-centric architecture
 
 ---
 
 # Interests
-- Circuits that blink  
-- Code that breaks and teaches me something  
-- Space tech and designing for harsh environments  
-- That moment when something finally works at 2 AM  
-- Quiet + headphones + figuring things out  
+- Peeling back abstraction layers until you hit something fundamental
+- Circuits and systems that actually do something, not just simulate
+- The moment an idea clicks after weeks of not seeing it
+- Guitar, when the code isn't cooperating
 
 ---
 
 # Contact
-If you're learning too and want to share what you’re building (or breaking):  
-
-**garagakarthikeya2007@gmail.com**
+**garaga.karthikeya@iiitb.ac.in**
 
 ---
 
-> here to learn. not here to impress.
+> building things, and figuring out what's actually worth building next
